@@ -1,0 +1,4 @@
+theme: jekyll-theme-cayman
+exclude:
+ - .idea/
+ - fixitfor.github.io.iml
